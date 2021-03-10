@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Legitymacja_8k", "Legitymacja_8k.csproj", "{91764B2B-9EF2-4FFE-8870-B3284F6D78DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91764B2B-9EF2-4FFE-8870-B3284F6D78DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91764B2B-9EF2-4FFE-8870-B3284F6D78DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91764B2B-9EF2-4FFE-8870-B3284F6D78DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91764B2B-9EF2-4FFE-8870-B3284F6D78DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8801E652-6202-4A0D-A628-4F0E7C271DA2}
+	EndGlobalSection
+EndGlobal
