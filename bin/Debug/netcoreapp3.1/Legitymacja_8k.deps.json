@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Legitymacja_8k/1.0.0": {
+        "runtime": {
+          "Legitymacja_8k.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Legitymacja_8k/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

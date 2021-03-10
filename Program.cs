@@ -6,7 +6,10 @@ namespace Legitymacja_8k
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var card = new Card("Magda");
+            Console.WriteLine($"Card {card.Number} was created for {card.Owner}.");
+            var card2 = new Card("Wojtek");
+            Console.WriteLine($"Card {card2.Number} was created for {card2.Owner}.");
         }
     }
 }
